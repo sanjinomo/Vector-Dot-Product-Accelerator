@@ -1,6 +1,0 @@
-
-State Machine - |vec_mul_avalon_interface_32|vec_mul_pipe_core_32:coreComp|state
-Name state.IDLE state.DONE state.RUN 
-state.IDLE 0 0 0 
-state.RUN 1 0 1 
-state.DONE 1 1 0 
