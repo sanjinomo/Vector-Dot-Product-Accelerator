@@ -1,0 +1,565 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "readdata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[8]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[9]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[10]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[11]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[12]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[13]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[14]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[15]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[16]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[17]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[18]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[19]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[20]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[21]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[22]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[23]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[24]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[25]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[26]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[27]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[28]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[29]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[30]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[31]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[4]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[5]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[6]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[7]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[8]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[9]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[10]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[11]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[12]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[13]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[14]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[15]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[16]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[17]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[18]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[19]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[20]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[21]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[22]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[23]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[24]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[25]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[26]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[27]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[28]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[29]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[30]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_address[31]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_read",
+					"strict" : false
+				},
+				{
+					"name" : "address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "read",
+					"strict" : false
+				},
+				{
+					"name" : "chipselect",
+					"strict" : false
+				},
+				{
+					"name" : "write",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "resetn",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[8]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[9]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[10]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[11]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[12]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[13]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[14]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[15]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[16]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[17]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[18]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[19]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[20]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[21]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[22]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[23]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[24]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[25]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[26]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[27]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[28]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[29]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[30]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[31]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_waitrequest",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdatavalid",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[8]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[9]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[10]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[11]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[12]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[13]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[14]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[15]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[16]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[17]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[18]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[19]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[20]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[21]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[22]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[23]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[24]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[25]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[26]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[27]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[28]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[29]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[30]",
+					"strict" : false
+				},
+				{
+					"name" : "avm_readdata[31]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
